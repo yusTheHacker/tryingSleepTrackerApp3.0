@@ -4,7 +4,7 @@ An Android application that uses a RecyclerView to track and display the user's 
 
 Submitted by: Yusley Rosabal Espinosa
 
-Time spent: 3.5 hours
+Time spent: 4 hours
 
 ## User Stories
 
@@ -34,11 +34,11 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='Sleep Tracker RecyclerView animated demo' alt='Sleep Tracker RecyclerView demo' />
+<img src='sleepTrackerRVApp3.0Demo.gif' title='Sleep Tracker RecyclerView animated demo' alt='Sleep Tracker RecyclerView demo' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is a pretty easy version of the app. No big challenge.
 
 ## License
 
