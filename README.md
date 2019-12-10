@@ -34,7 +34,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='sleepTrackerRVApp3.0Demo.gif' title='Sleep Tracker RecyclerView animated demo' alt='Sleep Tracker RecyclerView demo' />
+<img src='veremos.gif' title='Sleep Tracker RecyclerView animated demo' alt='Sleep Tracker RecyclerView demo' />
 
 ## Notes
 
